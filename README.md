@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikanta</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">A passionate Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikanta3566&label=Profile%20views&color=0e75b6&style=flat" alt="manikanta3566" /> </p>
 
