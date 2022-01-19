@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manikanta</h1>
-<h3 align="center">A passionate Engineering Student</h3>
+<h3 align="center">A passionate Engineer</h3>
 
 
-- 🔭 I’m currently working on **somthing cool**
+
 
 - 🌱 I’m currently learning **Java fullstack**
 
