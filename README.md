@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Java fullstack**
+- 🌱 I’m **Java fullstack developer**
 
 - 👯 I’m looking to collaborate on **projects**
 
