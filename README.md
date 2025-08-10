@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Manikanta, a passionate and results-driven Senior Software Engineer with 3.8 years of experience in full-stack development.<br>I specialize in building robust and scalable backend systems using Java and Spring Boot, and crafting responsive user interfaces with Angular.
+Hi! I'm Manikanta, a passionate and results-driven Senior Software Engineer with 4 years of experience in full-stack development.<br>I specialize in building robust and scalable backend systems using Java and Spring Boot, and crafting responsive user interfaces with Angular.
 
 
 # 💻 Tech Stack:
